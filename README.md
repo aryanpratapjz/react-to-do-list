@@ -1,4 +1,4 @@
-# a basic to-do-list made with React.js library and Vite tool.
+# a basic to-do-list made with React.js library, Vite tool and Material UI icons.
 
 Can do CRUD operations and a mark complete checkbox.
 
